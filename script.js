@@ -32,7 +32,7 @@ const products = [
     name: "معطف صوفي كلاسيكي",
     price: "2,400 ر.س",
     category: "The Winter Edit",
-    image: "https://images.unsplash.com/photo-1548624149-f9b82a00bd96?w=900&q=80",
+    image: "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=900&q=80",
     heroBg: "#D9D5CE",
     description: "معطف صوفي فاخر بخامة دافئة وقصة أنيقة تناسب أجواء الشتاء. يمنحك الدفء مع الحفاظ على الأناقة في أي مكان تذهب إليه.",
     colors: [
